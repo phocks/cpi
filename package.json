@@ -10,5 +10,8 @@
     "cpi"
   ],
   "author": "phocks@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.7.0"
+  }
 }

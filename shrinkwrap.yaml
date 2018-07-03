@@ -1,0 +1,12 @@
+dependencies:
+  dayjs: 1.7.0
+packages:
+  /dayjs/1.7.0:
+    dev: false
+    resolution:
+      integrity: sha512-6Hz3dWjCBzDG85WYgjGe3btPlheoZC54jYfZLWaSnFn9C9h/EpYEUI2D9apDQbHVB82CSNlSZFLWwH2p9zShVQ==
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 8
+shrinkwrapVersion: 3
+specifiers:
+  dayjs: ^1.7.0

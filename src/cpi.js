@@ -1,1 +1,5 @@
-export default 'hello world!';
+const cpi = (price, index) => {
+  return price / index * 112.6;
+}
+
+export default cpi;
