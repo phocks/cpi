@@ -12,7 +12,7 @@
   "author": "phocks@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "dayjs": "^1.7.0"
+    "dayjs": "^1.10.4"
   },
   "devDependencies": {
     "rollup-plugin-commonjs": "^9.1.3",
